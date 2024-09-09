@@ -1,2 +1,6 @@
 
 creditcard.csv
+data/xtest.npy
+data/xtrain.npy
+data/ytest.npy
+data/ytrain.npy
