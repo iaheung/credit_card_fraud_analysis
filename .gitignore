@@ -4,3 +4,7 @@ data/xtest.npy
 data/xtrain.npy
 data/ytest.npy
 data/ytrain.npy
+data/xtest.csv
+data/xtrain.csv
+data/ytest.csv
+data/ytrain.csv
