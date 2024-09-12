@@ -1,7 +1,8 @@
 # Credit Card Fraud Detection with Machine Learning Models
-## Data Imbalance Machine Learning Project
 
 The two main files are `data_prep.ipynb` and `model_training.ipynb`. Please view those two files for a comprehensive view of the project workflow.
+
+## Data Imbalance Machine Learning Project
 
 The following project is a machine learning project dedicated to tackling classification problems on imbalanced datasets. The data used in the project is obtained from an online Kaggle dataset. 
 
